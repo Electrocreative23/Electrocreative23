@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Github
 - 📫 How to reach me ... syedashfaquddin2003@gmail.com
 
-- Follow this repository Electrocreative23/ElectroCode
+- Follow this repository ElectroCode
 
 <!---
 Electrocreative23/Electrocreative23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
