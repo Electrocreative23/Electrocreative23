@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Electrocreative23
 - 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...C ,Java programming
+- 🌱 I’m currently learning ... ,Java programming
 - 💞️ I’m looking to collaborate on ... Github
 - 📫 How to reach me ... syedashfaquddin2003@gmail.com
 
